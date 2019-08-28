@@ -1,0 +1,42 @@
+Xivis E-Commerce
+
+
+1) Abrir la raiz del repositorio en una terminal.
+2) Instalar las dependencias del package.json, comando "npm i".
+3) Ingresar en el terminal el comando "npm start", y aguardar a que el bundle + el servidor ya esten OK.
+4) Ingresar en el browser a la direccion http://localhost:8080/
+
+
+Bienvenidos a e-Commerce
+
+Para buscar:
+
+1) Ingrese el nombre que desea buscar. Nota: La Api trae productos y el filtro de busqueda es por nombre.
+2) Se listaran los resultados.
+
+Para ver vista individual del producto:
+
+1) Clickee sobre la foto de cada item. Se asumio que seria un usuario logueado, por tanto permite vaciar el carro tambien desde esa vista.
+
+Para agregar al carrito:
+
+1) Cada producto tanto en la vista general como en la individual, tiene un boton de agregar al carrito. 
+2) Elige la cantidad deseada y presiona el boton para agregar. Nota: Si el producto ya esta en el carrito, se suma la cantidad.
+
+Para ver el carrito:
+
+1) Clickee sobre el icono del carrito en la parte superior derecha 
+2) Si tiene items agregados los vera listados, sino se mostrara un mensaje de "carrito vacio".
+
+Para vaciar el carrito:
+
+1) Clickee sobre el boton que se muestra en la vista de carrito "Clear Cart". Lo llevara nuevamente al Home.
+
+Para cambiar de vistas (grilla y lista)
+
+1) Clickee sobre los iconos que se encuentran en la barra y cambiara la vista.
+
+
+
+
+
